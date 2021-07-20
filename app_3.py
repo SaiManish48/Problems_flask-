@@ -14,5 +14,5 @@ def sample():
     else:
         name=request.form.get('fname')
     hobbies=["playing Cricket","Watching Movies","Listening Music"]
-    return render_template("sample1.html", n=name, h=hobbies)
+    return render_template("sample_1.html", n=name, h=hobbies)
 
