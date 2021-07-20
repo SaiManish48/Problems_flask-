@@ -1,3 +1,3 @@
-From this task I learned the about flask basics. I understood how to write the program in flask with html files. I created the program with a default router as well as specific router. I understood how to use jinga temple , if condition, for loops in html files. 
+From this task I learned about the flask basics. I understood how to write the program in flask with html files. I created the program with a default router as well as specific router. I understood how to use jinja template , if condition, for loops in html files. 
 
 I also understood the programs related to forms as well as how to sent the form details to flask. After that I render the html file with attribute. In the form page after choosing on the submit button it navigates to another html page and displays the entered name in the first page. 
